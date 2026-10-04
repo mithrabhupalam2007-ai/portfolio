@@ -12,8 +12,7 @@ export const profile = {
   tagline:
     'I build clean, responsive things for the web while I finish my Computer Science degree.',
   location: 'Bengaluru, India',
-  // TODO: replace with your real e-mail address
-  email: 'your.email@example.com',
+  email: 'mithrabhupalam2007@gmail.com',
   github: 'https://github.com/mithrabhupalam2007-ai',
   // TODO: replace with your real LinkedIn profile URL
   linkedin: 'https://www.linkedin.com/in/your-handle',
