@@ -88,7 +88,7 @@ Everything you see on the site is driven by a single file: **`src/data.js`**.
 Edit that file to update:
 
 - Your name, role, tagline and location
-- E-mail, GitHub and LinkedIn URLs (`src/data.js` still has a LinkedIn placeholder to replace)
+- E-mail, GitHub and LinkedIn URLs
 - About paragraphs and quick facts
 - Skill groups
 - Project cards (title, description, tags, source and demo links)

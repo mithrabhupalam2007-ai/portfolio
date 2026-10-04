@@ -14,8 +14,7 @@ export const profile = {
   location: 'Bengaluru, India',
   email: 'mithrabhupalam2007@gmail.com',
   github: 'https://github.com/mithrabhupalam2007-ai',
-  // TODO: replace with your real LinkedIn profile URL
-  linkedin: 'https://www.linkedin.com/in/your-handle',
+  linkedin: 'https://www.linkedin.com/in/mithra-bhupalam-7b737538b',
 }
 
 export const navLinks = [
