@@ -5,6 +5,7 @@ import Skills from './components/Skills.jsx'
 import Projects from './components/Projects.jsx'
 import Education from './components/Education.jsx'
 import Contact from './components/Contact.jsx'
+import Chatbot from './components/Chatbot.jsx'
 import Footer from './components/Footer.jsx'
 import './App.css'
 
@@ -20,6 +21,7 @@ function App() {
         <Education />
         <Contact />
       </main>
+      <Chatbot />
       <Footer />
     </>
   )
